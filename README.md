@@ -2,4 +2,4 @@
 
 Responsive with Bootstrap
 
-Thanks 
+
